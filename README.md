@@ -1,7 +1,4 @@
-m## Hi there 👋
-my self keerti mhsra
 
-#lovekeerticodeeat
 
 <!--
 **keertimishra11/keertimishra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
